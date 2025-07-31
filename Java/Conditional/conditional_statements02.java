@@ -1,3 +1,4 @@
+// parte 2
 /* Adicionar funções que acrescentem condições. Funções que de um jeito ou de outro dependam do estado das variáveis do programa.
   Adicionar o condicional statement. */
 
