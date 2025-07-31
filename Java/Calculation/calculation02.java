@@ -1,3 +1,4 @@
+// parte 2
 // Caso pelo menos um seja floating point, o resultado será um floating point.
 double whenDividedIsFloat = 3.0 / 2;
 System.out.printlm(whenDividedIsFloat); // print 1.5
