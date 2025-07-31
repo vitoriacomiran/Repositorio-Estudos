@@ -1,3 +1,4 @@
+// exemplo
 String valueAsString = “42”;
 
 int value = Integer.valueOf(valueAsString);
