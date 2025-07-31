@@ -1,3 +1,4 @@
+// exemplo
 String valueAsString = "42.42";
 double value = Double.valueOf(valueAsString);
 System.out.println(value);
