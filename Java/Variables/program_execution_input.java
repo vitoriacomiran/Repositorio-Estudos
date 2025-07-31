@@ -1,3 +1,4 @@
+// exemplo
 /* Quando a execução do programa chega a uma instrução que tenta ler o input do usuário (comando nextLine())
 a execução para e espera até o usuário escrever algum input e dar enter.*/
 
