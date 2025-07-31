@@ -1,4 +1,4 @@
-// Crie um programa que peça ao usuário quantos dias ele deseja trnasformar em segundos:
+/// Crie um programa que peça ao usuário quantos dias ele deseja trnasformar em segundos:
 
 import java.util.Scanner;
 public class SecondsInADay {
