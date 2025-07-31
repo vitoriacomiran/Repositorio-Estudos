@@ -1,3 +1,4 @@
+// parte 1
 /* Else
 Se o valor expresso dentro dos parênteses condicionais for falso, então a execução do código segue para a estrutura else. Uma opção alternativa. */
 
