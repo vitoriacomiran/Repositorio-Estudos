@@ -8,9 +8,9 @@ System.out.println("Integer variable: " + wholeNumber);
 System.out.println("Floating-point variable: " + floatingPoint);
 System.out.println("Boolean: " + trueOrFalse);
 
-/* Nomes de variáveis são únicos, não pode existir duas variáveis com o mesmo nome.
+// Nomes de variáveis são únicos, não pode existir duas variáveis com o mesmo nome.
 
-A variável existe desde o momento da sua declaração, o valor é preservado até que um novo valor seja atribuído à variável.*/
+//A variável existe desde o momento da sua declaração, o valor é preservado até que um novo valor seja atribuído à variável.*/
 
 int number = 123;
 System.out.println("The value of the variable is " + number);
