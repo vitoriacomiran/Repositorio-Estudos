@@ -12,10 +12,10 @@ public class Program {
 		
 	}
 
-/* String text = scanner.nextLine(); → Recebe um valor de texto
+// String text = scanner.nextLine(); → Recebe um valor de texto
 
-	int integer = Integer.valueOf(scanner.nextLine()); → recebe um valor inteiro e transforma em texto
+	int integer = Integer.valueOf(scanner.nextLine()); → //recebe um valor inteiro e transforma em texto
 
-	double floatingPoint = Double.valueOf(scanner.nextLine()); → recebe um valor decimal e transforma em texto
+	double floatingPoint = Double.valueOf(scanner.nextLine()); → //recebe um valor decimal e transforma em texto
 
-	boolean trueOrFalse = Boolean.valueOf(scanner.nextLine()); → recebe um valor true ou false e transforma em texto */
+	boolean trueOrFalse = Boolean.valueOf(scanner.nextLine()); → //recebe um valor true ou false e transforma em texto */
