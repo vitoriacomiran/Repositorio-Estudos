@@ -1,4 +1,4 @@
-// Pode adicionar mais de uma string a ser impressa na tela através do operador +:
+/// Pode adicionar mais de uma string a ser impressa na tela através do operador +:
 
 public class Program {
 	public static void main(String[] args) {
