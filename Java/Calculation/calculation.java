@@ -1,3 +1,4 @@
+// parte 1
 int first = 2;
 System.out.println(first);
 int second = 4;
