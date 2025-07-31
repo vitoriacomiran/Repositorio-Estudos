@@ -1,4 +1,4 @@
-//introduce the scanner tool used for reading user input
+///introduce the scanner tool used for reading user input
 import java.until.Scanner;
 
 public class Program {
