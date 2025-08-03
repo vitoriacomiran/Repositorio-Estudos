@@ -1,4 +1,4 @@
-// função para estanciar objetos
+// função para instanciar objetos
 
 function createProduct(name) { // criar a função para receber sempre o nome do produto
     const product = {} // criação de um objeto vazio que irá receber os detalhes abaixo
