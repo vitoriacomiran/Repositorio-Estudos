@@ -1,0 +1,16 @@
+// criando um objeto
+const product = {
+    name: "Teclado",
+    quantity: 20,
+}
+
+// acessando a propriedade do objeto
+console.log(product.quantity) // retorna 20
+
+// atualizando o valor de uma propriedade
+
+product.quantity = 10
+console.log(product.quantity) // irá retornar 10
+
+
+// se eu rodar o console.log antes de atualizar, por exemplo, na linha 11, o valor será o antigo
