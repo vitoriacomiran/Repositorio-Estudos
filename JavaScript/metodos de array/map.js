@@ -10,6 +10,7 @@ products.map((item) => {
 })
 
 // sintaxe reduzida
+
 products.map((item) => console.log(item))
 
 // utilizando o novo objeto retornado
