@@ -4,18 +4,15 @@
 const products = ["Teclado", "Mouse", "Monitor"]
 
 // percorrer o array
-
 products.map((item) => {
     console.log(item) // retorna ["Teclado", "Mouse", "Monitor"]
 })
 
 // sintaxe reduzida
-
 products.map((item) => console.log(item))
 
 // utilizando o novo objeto retornado
 const formatted = products.map((item) => {
     return products.toUpperCase()
 })
-
 console.log(formatted) // retorna ["TECLADO", "MOUSE", "MONITOR"]
